@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jc8Rhzm1nZk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dio_\\dev\\CSharp\\DesignPatternRepo\\src\\BehavioralPatterns\\Strategy\\primitive\\Launcher\\Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dio_\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
